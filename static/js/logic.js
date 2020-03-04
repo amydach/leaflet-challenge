@@ -49,7 +49,7 @@ d3.json(url, function(response) {
     }
 
 
-    //Get the radius of the markers
+    // Get the radius of the markers
     function getRadius(magnitude) {
         if (magnitude === 0) {
           return 1;
