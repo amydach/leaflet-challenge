@@ -23,7 +23,7 @@ organizations (and hopefully secure more funding..) on issues facing our planet.
 2. **Importing & Visualizing the Data:**
 
    * Created a map using Leaflet that plots all of the earthquakes from USGS data set based on their longitude and latitude.
-   * My data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+   * My data markers reflect the magnitude of the earthquake by their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
    * Included popups that provide additional information about the earthquake when a marker is clicked.
    * Created a legend that will provide context for your map data.  
 
