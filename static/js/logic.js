@@ -62,7 +62,7 @@ d3.json(url, function(response) {
     pointToLayer: function(feature, latlng) {
         return L.circleMarker(latlng);
     },
-    // We set the style for each circleMarker using our styleInfo function
+    // Set the style for each circleMarker using our styleInfo function
     style: marker_style,
     // Create a popup for each marker to display the magnitude and location of the earthquake after the marker has been created and styled
     onEachFeature: function(feature, layer) {
