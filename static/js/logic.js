@@ -15,6 +15,7 @@
 
 lightmap.addTo(baseMaps)
 
+       // Define the data source
 var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 
         //Starter Code for loop to get data into the markers
