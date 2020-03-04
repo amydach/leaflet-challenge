@@ -36,6 +36,7 @@ https://github.com/amydach/leaflet-challenge
 Run file index.html to see the output.
 
 ## Dependencies:
+
 Leaflet,
 JavaScript,
 HTML
