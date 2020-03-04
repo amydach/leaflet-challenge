@@ -18,7 +18,7 @@ lightmap.addTo(baseMaps)
        // Define the data source
 var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 
-        //Starter Code for loop to get data into the markers
+        //Create starter code for loop to get data into the markers
 d3.json(url, function(response) {
     function marker_style(feature) {
         return{
