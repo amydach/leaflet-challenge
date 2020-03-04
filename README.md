@@ -32,7 +32,8 @@ organizations (and hopefully secure more funding..) on issues facing our planet.
 ## Link to my Github repo:
 
 https://github.com/amydach/leaflet-challenge
-Run file index.html to see the output
+
+Run file index.html to see the output.
 
 ## Dependencies:
 Leaflet,
