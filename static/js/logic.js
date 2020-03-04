@@ -64,7 +64,7 @@ d3.json(url, function(response) {
     },
     // We set the style for each circleMarker using our styleInfo function
     style: marker_style,
-    // We create a popup for each marker to display the magnitude and location of the earthquake after the marker has been created and styled
+    // Create a popup for each marker to display the magnitude and location of the earthquake after the marker has been created and styled
     onEachFeature: function(feature, layer) {
         layer.bindPopup('Magnitude: ' + feature.properties.mag + '<br>Location: ' + feature.properties.place);
     }
